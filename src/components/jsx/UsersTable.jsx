@@ -92,8 +92,8 @@ function UsersTable({
                                             </select>
                                         </td>
                                         <td>
-                                            <button type="button" className="btn btn-success btn-sm me-3" onClick={handleSaveButton}>Save</button>
-                                            <button type="button" className="btn btn-danger btn-sm" onClick={handleCancelButton}>Cancel</button>
+                                            <button type="button" className="btn btn-success btn-sm me-3 mb-2 mb-lg-0" onClick={handleSaveButton} title="Save">Save</button>
+                                            <button type="button" className="btn btn-danger btn-sm" onClick={handleCancelButton} title="Cancel">Cancel</button>
                                         </td>
                                     </tr>
                                 ) :
