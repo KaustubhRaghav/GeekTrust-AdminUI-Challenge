@@ -1,0 +1,15 @@
+.toast-container {
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.error-label {
+    background-color: #DC3545;
+}
+
+.success-label {
+    background-color: #198754;
+}
+
